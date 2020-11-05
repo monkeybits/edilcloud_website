@@ -1,3 +1,0 @@
-
----Downloaded files---
-An error occurred while fetching file from: <strong>https://pixfort-space.sfo2.digitaloceanspaces.com/wordpress/essentials/demos/software/software-elementor.xml</strong>!<br>Reason: http_request_failed - cURL error 28: Operation timed out after 10010 milliseconds with 0 out of 0 bytes received.<br>
