@@ -1,0 +1,27 @@
+.fly-sm,
+.fly,
+.fly-lg {
+    -webkit-transition: $transition-base;
+    transition: $transition-base;
+}
+
+.fly-sm {
+    &:hover {
+        -webkit-transform: $fly-sm !important;
+                transform: $fly-sm !important;
+    }
+}
+
+.fly {
+    &:hover {
+        -webkit-transform: $fly !important;
+                transform: $fly !important;
+    }
+}
+
+.fly-lg {
+    &:hover {
+        -webkit-transform: $fly-lg !important;
+                transform: $fly-lg !important;
+    }
+}
