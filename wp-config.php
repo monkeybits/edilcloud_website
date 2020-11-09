@@ -57,6 +57,13 @@ define( 'NONCE_SALT',       '{5g~^?Hq|IEa(9RFwh]j1Dn !kMdQ]Gt^n%He9r!?+}[MC~WEZ0
 
 /**#@-*/
 
+
+/**
+ * API SENDINBLUE.
+ */
+
+define('SEND_IN_BLUE_KEY', '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');
+
 /**
  * Prefisso Tabella del Database WordPress.
  *
